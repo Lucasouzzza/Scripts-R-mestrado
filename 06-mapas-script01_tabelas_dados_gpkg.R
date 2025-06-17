@@ -1,4 +1,4 @@
-# Script destinado a juntar todos os frag_taman_usado_dez_mil em um mesmo objeto
+# Script destinado a unir todos os objetos 'frag_taman_usado_dez_mil' em um único objeto.
 
 # Versao do R utilizada: 4.2.3
 
