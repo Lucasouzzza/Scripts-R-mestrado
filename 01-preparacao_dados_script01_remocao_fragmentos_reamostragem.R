@@ -1,7 +1,10 @@
-# Script para remover todos os fragmentos florestais maiores que dez mil hectares, que nao foram
-# utilizados nas analises (extensao expacial muito grande, sendo inadequado para analises SLOSS utilizadas)
-# Alguns estudos possuiam numero de fragmentos amostrados maior que 23 fragmentos, fato que impossibilitou a aplicacao da metodologia aplicada nas analises
-# nesse caso, foi realizado uma reamostragem desses fragmentos
+# Script para remover todos os fragmentos florestais com área superior a 10.000 hectares,
+# os quais não foram utilizados nas análises por apresentarem extensão espacial excessiva,
+# tornando-se inadequados para a abordagem SLOSS adotada.
+# 
+# Além disso, alguns estudos continham mais de 23 fragmentos amostrados, o que inviabilizou
+# a aplicação da metodologia utilizada nas análises. Nesses casos, foi realizada uma reamostragem
+# dos fragmentos.
 
 # Versao do R utilizada: 4.2.3
 
