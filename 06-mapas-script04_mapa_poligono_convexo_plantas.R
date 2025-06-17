@@ -1,5 +1,8 @@
- # Script utilizado para criar mapas de cada estudo utilizado no mestrado. Sao calculados e denhenhados tambem os centroides de cada fragmento amostrado e os poligonos convexos 
- # dos fragemtnos amostrados mais externos. O tamanho dos mapas e calculado com base nos poligonos utilizados no desenho do polonigono convexo de cada estudo. 
+# Script utilizado para criar mapas de cada estudo realizado no mestrado.
+# São calculados e desenhados também os centróides de cada fragmento amostrado,
+# bem como os polígonos convexos dos fragmentos amostrados mais externos.
+# O tamanho dos mapas é definido com base nos polígonos utilizados para a construção
+# do polígono convexo de cada estudo.
 
  # Versao do R utilizada: 4.2.3
 
