@@ -1,5 +1,5 @@
-# Este script remove os fragemntos nao utilizados nas analises do arquivo gpkg para
-# posteriormente ser utilizado na preparacao dos mapas
+# Script para remover os fragmentos não utilizados nas análises do arquivo .gpkg,
+# visando sua posterior utilização na elaboração dos mapas.
 
 # Versao do R utilizada: 4.2.3
 
