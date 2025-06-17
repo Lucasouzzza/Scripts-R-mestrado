@@ -6,10 +6,6 @@
 # Carregar pacotes necessarios
 library(sf)
 library(dplyr)
-library(ggplot2)
-library(ggspatial)
-library(ggrepel)
-library(gridExtra)
 library(tmap)
 
 # Carrega dados dos estudo
