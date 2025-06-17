@@ -1,4 +1,4 @@
-# Este script tem o objetivo de selecionar as combinacoes SLOSS somente dos tres maiores fragmentos florestais de cada estudo
+# Script destinado à seleção das combinações SLOSS envolvendo exclusivamente os três maiores fragmentos florestais de cada estudo.
 
 # Versao do R utilizada: 4.2.3
 
