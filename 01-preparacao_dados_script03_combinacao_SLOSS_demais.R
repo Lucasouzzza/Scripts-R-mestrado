@@ -1,7 +1,9 @@
-# Este codigo tem como objetivo, criar combinacoes do maior fragmento em um paisagem com os demais, em varios niveis de 
-# fragmentacao(e.g. entre um grande e dois fragmentos, um grande entre tres fragmentos etc, conforme a metodologia de Gavish 
-# et al 2012) Em seguida e calculado ao indice alfa de diversidade de fisher das especues econtradas nessas combinacoes e do 
-# fragmentomaior. Sao selecionados somente as combiancoes do nivel de fragmentacao mais elevado
+# Este código tem como objetivo criar combinações entre o maior fragmento de uma paisagem
+# e os demais fragmentos, em diferentes níveis de fragmentação (e.g., combinação entre um grande
+# fragmento e dois menores, um grande entre três menores, etc.), conforme a metodologia de Gavish et al. (2012).
+# Em seguida, é calculado o índice alfa de diversidade de Fisher das espécies encontradas nessas combinações
+# e no maior fragmento individualmente. Apenas as combinações pertencentes ao nível mais elevado de
+# fragmentação são selecionadas.
 
 # Artigo de referencia: Gavish, Y., Ziv, Y., Rosenzweig, M.L., 2012. Decoupling Fragmentation from Habitat 
 # Loss for Spiders in Patchy Agricultural Landscapes.Conservation Biology 26, 150–159.
