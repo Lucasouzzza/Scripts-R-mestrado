@@ -1,7 +1,8 @@
-# No meu mestrado foi utilizado nas analises o indice alfa de diversidade de Fisher obtido da abundancia das especies. O indice alfa tem a propriedade de ser
-# pouco influenciado pelo tamanho da amostra amostra (Beck e Schwanghart, 2010; Condit et al., 1996,1998; Taylor et al., 1976). Para a utilizacao desse indice, as abundancias devem estar
-# em contagem e em teoria, devem seguir a distribuicao log-series, embora seja considerado robusto em relacao as violacoes do pressuposto da distribuicao log-series das
-# abundancias de especies (Magurran, 2004). Mesmo assim, testamos o ajuste das abundancias a distribuicao log-series em todas as combinacoes correspondentes ao segundo maior fragmento.
+# No meu mestrado, foi utilizado nas análises o índice alfa de diversidade de Fisher, calculado com base na abundância das espécies.
+# Esse índice apresenta a vantagem de ser pouco influenciado pelo tamanho da amostra (Beck & Schwanghart, 2010; Condit et al., 1996, 1998; Taylor et al., 1976).
+# Para sua aplicação, as abundâncias devem estar em formato de contagem e, teoricamente, seguir uma distribuição log-série,
+# embora o índice seja considerado robusto mesmo diante de violações desse pressuposto (Magurran, 2004).
+# Ainda assim, testamos o ajuste das abundâncias à distribuição log-série em todas as combinações correspondentes ao segundo maior fragmento.
 
 #Literatura citada: 
 # Beck, J., Schwanghart, W., 2010. Comparing measures of species diversity from incomplete inventories: an update. Methods in Ecology and Evolution 1, 38–44.
@@ -13,14 +14,8 @@
 # Magurran, A.E., 2004. Measuring Biological Diversity. Oxford: Blackwell.
 
 # Pacotes utilizados
-#library(readr)
-#library(plyr)
 library(dplyr)
-#library(tidyr)
-#library(purrr)
-#library(vegan)
 library(foreach)
-#library(doParallel)
 library(doFuture)
 library(furrr)
 library(sads)
