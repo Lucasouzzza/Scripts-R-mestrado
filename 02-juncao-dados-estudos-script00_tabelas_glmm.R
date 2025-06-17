@@ -1,5 +1,8 @@
-# No meu mestrado, foram utilizados dados de 35 estudos. A preparacao desses dados (calculo das combinacoes e calculo do Indice alfa de diversidade de Fisher) foi realizada individualmente para cada estudo
-# Este script tem como objetivo juntar esses dados em tres conjuntos de dados (dados completos, dados com somente especies especialistas florestais e dados com somente especies generalistas de habitat)
+# No meu mestrado, foram utilizados dados de 35 estudos. A preparação desses dados 
+# (cálculo das combinações e do índice alfa de diversidade de Fisher) foi realizada individualmente para cada estudo.
+# Este script tem como objetivo consolidar esses dados em três conjuntos distintos:
+# dados completos, dados contendo somente espécies especialistas em habitat florestal,
+# e dados contendo somente espécies generalistas de habitat.
 
 # Versao do R utilizada: 4.2.3
 
