@@ -1,4 +1,4 @@
-# Script destinado para conversao dos mapas.tif em objetos sf e posteriormente, salva-los na pasta apropriada. 
+# Script para converter arquivos mapas.tif em objetos sf e salvá-los na pasta correspondente.
 
 # Versao do R utilizada: 4.2.3
 
