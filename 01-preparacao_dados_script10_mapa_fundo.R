@@ -1,7 +1,7 @@
-# Spript destinado a fazer recorte das paisagens de cada estudo com base nos fragmentos amostrados
-# Sao recortados mapas provenientes do projeto Mapbiomas. Posteriormente o recorte e reclassificado e 
-# reprojetado nos paramentros utilizados no mestrado (unindo dos os usos da terra relacionados a florestas naturais em uma mesma categoria
-# e as demais categorias sendo agrupadas em outra categoria e sendo utilizado a projecao equilvalente ao Albers)
+# Script destinado a realizar o recorte das paisagens de cada estudo com base nos fragmentos amostrados.
+# São recortados mapas provenientes do projeto MapBiomas. Posteriormente, o recorte é reclassificado e reprojetado
+# conforme os parâmetros utilizados no mestrado, unindo todos os usos da terra relacionados a florestas naturais em uma única categoria,
+# enquanto as demais categorias são agrupadas em outra. A projeção adotada é a equivalente ao Albers.
 
 # Versao do R utilizada: 4.2.3
 
