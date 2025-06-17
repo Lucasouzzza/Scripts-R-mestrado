@@ -1,6 +1,7 @@
-#Este script fi utilizado para fazer o grafico para avaliar a variacao da razao do indice alfa de acordo com os niveis de fragmentacao
-#e identificar possiveis padroes, estimamos a media da razao do indice alfa para cada nivel de
-#fragmentacao proveniente de cada fragmento grande.
+# Este script foi utilizado para gerar o gráfico que avalia a variação da razão do índice alfa
+# de acordo com os níveis de fragmentação e identificar possíveis padrões.
+# Para isso, estimamos a média da razão do índice alfa para cada nível de fragmentação,
+# considerando os dados provenientes de cada fragmento grande.
 
 # Versao do R utilizada: 4.2.3
 
