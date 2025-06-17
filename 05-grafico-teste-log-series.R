@@ -1,4 +1,5 @@
-# Script para grafico do teste log-series para as abundancias dos fragmentos SL e suas combinacoes. Foram utilizadas combinacoes dos tres maiores fragmentos de cada estudo
+# Script para o gráfico do teste de ajuste à distribuição log-série das abundâncias dos fragmentos SL e suas combinações.
+# Foram utilizadas combinações dos três maiores fragmentos de cada estudo.
 
 # Versao do R utilizada: 4.2.3
 
