@@ -1,5 +1,5 @@
-# Script utilizado para criar o mapa do Brail com os centroides de cada estudo utilizado no mestrado e com o limite historico
-# da Mata Atlantica.
+# Script utilizado para criar o mapa do Brasil com os centróides de cada estudo realizado no mestrado
+# e com o limite histórico da Mata Atlântica.
 
 # Versao do R utilizada: 4.2.3
 
