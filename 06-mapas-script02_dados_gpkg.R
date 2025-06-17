@@ -1,4 +1,4 @@
-# Script para traduzir a coluna taxon para o ingles
+# Script para traduzir a coluna 'taxon' para o inglês.
 
 # Versao do R utilizada: 4.2.3
 
