@@ -5,11 +5,7 @@
 
 # Carregar pacotes necessarios
 library(sf)
-library(ggrepel)
-library(tidyr)
 library(dplyr)
-library(ggplot2)
-library(ggspatial)
 library(readr)
 library(tmap)
 
