@@ -1,4 +1,4 @@
-# Este codigo tem como objetivo calcular o Indice alfa de diversidade de Fsher em fragmentos florestais. 
+# Código para o cálculo do índice alfa de diversidade de Fisher em fragmentos florestais.
 
 # Versao do R utilizada: 4.2.3
 
