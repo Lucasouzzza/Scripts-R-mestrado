@@ -1,5 +1,6 @@
-# Script para remover todos os fragmentos florestais maiores que dez mil hectares, que nao foram
-# utilizados nas analises (extensao expacial muito grande, sendo inadequado para analises SLOSS utilizadas)
+# Script para remover todos os fragmentos florestais com área superior a 10.000 hectares,
+# que não foram utilizados nas análises por apresentarem extensão espacial muito grande,
+# tornando-se inadequados para as análises do tipo SLOSS.
 
 # Versao do R utilizada: 4.2.3
 
